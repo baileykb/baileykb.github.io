@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vex.jpg
+image: images/VEX.jpg
 title: Robotics Competition
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
