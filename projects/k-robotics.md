@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/VEX.jpg
+image: images/Vex-Robotics-2.png
 title: Robotics Competition
 permalink: projects/VEX
 # All dates must be YYYY-MM-DD format!
