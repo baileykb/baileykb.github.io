@@ -87,10 +87,12 @@
       "startDate": "2015-08-022",
       "endDate": "2017-05-12",
       "summary": "This position is responsible for ensuring guest satisfaction", 
-      " Handle all counter transactions in a fast, efficient, and friendly manner", 
-      " Take telephone orders; prepare, pack, and serve food items to guests", 
-      " Supports other counter functions to ensure the efficient and effective flow of counter operations.",
-    }
+      "expectations" : [
+        "Handle all counter transactions in a fast, efficient, and friendly manner", 
+      "Take telephone orders; prepare, pack, and serve food items to guests", 
+      "Support other counter functions to ensure the efficient and effective flow of counter operations."
+      ]
+     }
     ],
   "references": [
     {
