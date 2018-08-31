@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/VEX.jpg
 title: Robotics Competition
-permalink: projects/micromouse
+permalink: projects/VEX
 # All dates must be YYYY-MM-DD format!
 date: 2015-03-01
 labels: 
