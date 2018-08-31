@@ -76,7 +76,19 @@
         "ICS 141, 241"
       ]
     }
+    [ 
+      {
+        "institution": "Honolulu Community College",
+      "area": "Liberal Arts (graduated)",
+      "studyType": "A.A.",
+      "startDate": "2015-08-20",
+      "endDate": "2017-12-17",
+      "gpa": "3.57",
+      "courses": [
+        }
+     ]
   ],
+  
   "work": [
     {
       "company": "Zippy's",
