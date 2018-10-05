@@ -7,7 +7,7 @@ date: 2018-10-04
 labels:
   - Frameworks
 ---
-<h2>Why Semantic UI is Superior</h2>
+<h2>What is Semantic UI?</h2>
 
 <p>Semantic UI is a modern front-end development framework. Many developers use this framework to simplify the agonizing web design/formatting process that comes with using raw HTML and CSS. Semantic UI also utilizes human words or phrases to simplify things. Phrases such as “ui grid”, or “four wide column” are commonly used. This human-like way of writing makes it very easy for the user to understand. Semantic UI’s ability to provide a wide variety of classes, icons, symbols, functions and many other things allow the user to be very flexible. This is because it is one of the most fully featured frameworks out there. It’s also the main reason why Semantic UI is so popular among developers.</p>
 
