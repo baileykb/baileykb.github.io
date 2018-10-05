@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: The Beauty of Semantic UI
 # All dates must be YYYY-MM-DD format!
-date: 2018-010-04
+date: 2018-10-04
 labels:
   - Frameworks
 ---
