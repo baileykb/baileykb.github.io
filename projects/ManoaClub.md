@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/manoaclub.png
 title: Manoa Club
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
