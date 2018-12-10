@@ -14,7 +14,8 @@ labels:
 summary: In my ICS 314 class my team and I created a project that would provide UH Manoa students an easier way to view the many different clubs that exist at UH Manoa. 
 ---
 
- <img class="ui image" src="../images/listclubs.png">
+ Here is an example of our List Clubs page:
+ <img class="ui image" src="../images/clubs.png">
 
 This project was made in my ICS 314, Fall 2018. The program was created in Meteor and deployed through Galaxy. For this project, I was tasked with the admin side of our application. I needed to implement an edit and delete buttons that were fully functional and only admins were allowed to access. I also implemented default data and accounts that we could use to test to see if the functionality of our app was working the way we intended it to. If you would like to see the source code of our project you can head to our GitHub organization page here: https://github.com/manoaclubroom/manoaclubroom  
 
