@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "baileykb",
-        "url": "http://baileykb.github.io"
+        "url": "https://github.com/baileykb"
       },
       {
         "network": "linkedin",
@@ -59,6 +59,7 @@
       "keywords": [
         "MacOS",
         "Windows 10",
+        "Linux"
         "Git/GitHub"
       ]
     }
@@ -73,7 +74,8 @@
       "gpa": "3.57",
       "courses": [
         "ICS 111, 211",
-        "ICS 141, 241"
+        "ICS 141, 241",
+        "ICS 222, 321"
       ]
     }
   ],
