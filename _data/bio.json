@@ -13,9 +13,7 @@
       "city": "Kailua",
       "countryCode": "USA",
       "region": "Hawaii"
-    }
-    },
-    
+    },   
     "profiles": [
       {
         "network": "github",
@@ -41,7 +39,7 @@
       ]
     },
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     }
