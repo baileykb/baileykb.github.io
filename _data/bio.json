@@ -13,7 +13,9 @@
       "city": "Kailua",
       "countryCode": "USA",
       "region": "Hawaii"
+    }
     },
+    
     "profiles": [
       {
         "network": "github",
