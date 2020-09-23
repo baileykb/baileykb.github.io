@@ -71,11 +71,14 @@
       "studyType": "B.A.",
       "startDate": "2018-01-08",
       "endDate": "Present",
-      "gpa": "3.75",
+      "gpa": "3.77",
       "courses": [
         "ICS 111, 211",
         "ICS 141, 241",
-        "ICS 222, 321"
+        "ICS 222, 321",
+        "ICS 311, 355",
+        "ICS 212, 451",
+        "ICS 426, EE 469"
       ]
     }
   ],
