@@ -63,48 +63,6 @@
         "Git/GitHub"
       ]
     }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2020)",
-      "studyType": "B.A.",
-      "startDate": "2018-01-08",
-      "endDate": "Present",
-      "gpa": "3.77",
-      "courses": [
-        "ICS 111, 211",
-        "ICS 141, 241",
-        "ICS 222, 321",
-        "ICS 311, 355",
-        "ICS 212, 451",
-        "ICS 426, EE 469"
-      ]
-    }
-  ],
-  
-  "work": [
-    {
-      "company": "Zippy's",
-      "position": "Counter",
-      "website": "",
-      "startDate": "2015-08-22",
-      "endDate": "2017-05-12",
-      "summary": "This position is responsible for ensuring guest satisfaction, handling all counter transactions in a fast, efficient, and friendly manner, taking telephone orders; preparing:, pack, and serve food items to guests, and supporting other counter functions to ensure the efficient and effective flow of counter operations"
-     },
-    {
-     "company": "Information Technology Center at UH Manoa",
-      "position": "IT Help Desk Consultant",
-      "website": "https://www.hawaii.edu/its/help-desk/",
-      "startDate": "2018-09-16",
-      "endDate": "Present",
-      "summary": "This position is responsible for helping UH members with any IT problems they may run into."
-    }
-    ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
   ]
 }
+  
